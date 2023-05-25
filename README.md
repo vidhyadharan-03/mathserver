@@ -132,7 +132,8 @@ urlpatterns = [
 ![output](./out.png)
 
 ## HOME PAGE:
-![homepage](./web math.png)
+
+![web math](https://github.com/vidhyadharan-03/mathserver/assets/114286357/0a60310e-c1e8-43dc-8766-edf8d917f70a)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
